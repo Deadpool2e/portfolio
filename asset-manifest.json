@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Deadpool2e/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Deadpool2e/portfolio/static/js/main.029e3040.js",
+    "static/media/fitquest.png": "/Deadpool2e/portfolio/static/media/fitquest.d9d44cbfe6cb5fdfb81a.png",
+    "static/media/LOR_Krishna Nand Dubey_page-0001.jpg": "/Deadpool2e/portfolio/static/media/LOR_Krishna Nand Dubey_page-0001.02e315db4aa48fa77639.jpg",
+    "static/media/type.png": "/Deadpool2e/portfolio/static/media/type.7f4859fad42a5cf58808.png",
+    "static/media/callwave.png": "/Deadpool2e/portfolio/static/media/callwave.16250fe79448594f64a8.png",
+    "static/media/knit.png": "/Deadpool2e/portfolio/static/media/knit.5173e0a6cdca6dbc8a0a.png",
+    "static/media/Boll_game.png": "/Deadpool2e/portfolio/static/media/Boll_game.8dfb4e9ffcf464e0e15f.png",
+    "static/media/studata.png": "/Deadpool2e/portfolio/static/media/studata.54e96cabfa5d81d5962b.png",
+    "static/media/HeroImage.svg": "/Deadpool2e/portfolio/static/media/HeroImage.39e3c9b266f673a1f1be9bc5f607198d.svg",
+    "static/media/leetcode.png": "/Deadpool2e/portfolio/static/media/leetcode.8d5e33d9a7aaf4299311.png",
+    "static/media/LOGO.png": "/Deadpool2e/portfolio/static/media/LOGO.243bf963f8fb908b7003.png",
+    "index.html": "/Deadpool2e/portfolio/index.html",
+    "main.bf538fe7.css.map": "/Deadpool2e/portfolio/static/css/main.bf538fe7.css.map",
+    "main.029e3040.js.map": "/Deadpool2e/portfolio/static/js/main.029e3040.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.029e3040.js"
+  ]
+}
