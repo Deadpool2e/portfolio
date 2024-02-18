@@ -7,7 +7,7 @@ import CallImg from "../images/callwave.png";
 import StuImg from "../images/studata.png";
 import TypeImg from "../images/type.png";
 import BollImg from "../images/Boll_game.png";
-
+import ChatImg from "../images/chat.png";
 
 export const Bio = {
   name: "Krishna",
@@ -230,7 +230,7 @@ export const projects = [
   {
     id: 6,
     title: "Student Database",
-    date: "Jun 2022",
+    date: "Aug 2022",
     description: [
       "Built a Student Database Management System using React and a JSON Server, facilitating seamless CRUD operations.",
       "Utilized Axios for API requests, ensuring efficient data communication between the front-end and back-end components.",
@@ -244,6 +244,22 @@ export const projects = [
   },
   {
     id: 7,
+    title: "Chat Zone",
+    date: "Jun 2022",
+    description: [
+      "Engineered a feature-rich chat application using Socket.io for real-time communication.",
+    "Implemented room creation and management functionalities, allowing users to join multiple rooms.",
+    "Enabled seamless interaction among multiple users within the same room, fostering dynamic conversations."
+  ],
+
+    image: ChatImg,
+    tags: ["React Js", "Socket.io", "Node JS"],
+    category: "fullstack",
+    github: "https://github.com/Deadpool2e/chat-app",
+    webapp: "https://wonderful-mandazi-8bc744.netlify.app/",
+  },
+  {
+    id: 8,
     title: "Typing Test",
     date: "Jan 2021",
     description: [
@@ -259,7 +275,7 @@ export const projects = [
     webapp: "https://deadpool2e.github.io/typing_test/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Boll Game",
     date: "Jan 2021",
     description : [
