@@ -254,7 +254,7 @@ export const projects = [
 
     image: ChatImg,
     tags: ["React Js", "Socket.io", "Node JS"],
-    category: "fullstack",
+    category: "frontend",
     github: "https://github.com/Deadpool2e/chat-app",
     webapp: "https://wonderful-mandazi-8bc744.netlify.app/",
   },
