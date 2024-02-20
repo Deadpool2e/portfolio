@@ -94,10 +94,10 @@ const CodingProfile = () => {
           fontSize: "42px",
           textAlign: "center",
           fontWeight: 600,
-          marginY: "20px",
+          marginY: 3,
           color: (theme) => theme.text_primary,
           "@media (max-width: 768px)": {
-            marginTop: "12px",
+            marginTop: 8,
             fontSize: "32px",
           },
         }}
@@ -110,9 +110,16 @@ const CodingProfile = () => {
         sx={{
           display: "flex",
           justifyContent: "space-around",
-          marginTop: "30px",
+          marginTop: 6,
           height: 300,
           paddingX: 10,
+          flexWrap: "wrap",
+          "@media (max-width: 768px)": {
+            height:"100%",
+            gap:3,
+            marginY:5,
+
+          },
         }}
       >
         {codingPlatforms.map((platform, index) => (
